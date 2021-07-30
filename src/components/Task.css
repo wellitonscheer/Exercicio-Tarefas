@@ -15,6 +15,15 @@
 .remove-task-button{
     background-color: #444;
     border: none;
-    font-size: 16px;
+    font-size: 24px;
     color: chartreuse;
+    font-weight: bold;
+}
+.ver-detalhes{
+    background-color: #444;
+    border: none;
+    font-size: 24px;
+    color: chartreuse;
+    font-weight: bold;
+    margin: 0 5px;
 }

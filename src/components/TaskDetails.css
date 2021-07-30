@@ -1,0 +1,19 @@
+.container-detalhes{
+    background: #444;
+    margin-right: 10px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    color: #eee;
+    border-radius: 5px;
+}
+
+.container-detalhes h2 {
+    margin-bottom: 5px;
+    color: chartreuse;
+}
+
+.button-voltar {
+    width: 30%;
+    margin-top: 10;
+}
